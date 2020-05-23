@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.bfci.covid.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Covid app Example</name>
+
+  <description>
+      A covid-19 WHO advices
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      dresha
+  </author>
+<icon src="icon.png"/>
+</widget>
